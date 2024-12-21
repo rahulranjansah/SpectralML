@@ -1,6 +1,6 @@
 ## Description
 
-This is a machine learning project of predicting Asteroids of SMASS survey using multiclass SVM model. Further, we use Gaussian Mixture Models to confirm the presence of non-gaussian datasets.
+This is a machine learning project of predicting Asteroids of SMASS survey using multiclass SVM model. Further, we use Gaussian Mixture Models to confirm the presence of non-gaussian datasets. Interactive dashboard to learn about the project under development (stay tuned).
 
 ## Data type
 
